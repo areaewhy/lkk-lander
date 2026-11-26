@@ -1,2 +1,3 @@
-# lkk-lander
-A minimalist 80s-style animated landing page for LKK
+# LKK
+
+A minimalist 80s-style landing page with orange rain lines and a centered **LKK** reveal.
